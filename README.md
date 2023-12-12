@@ -18,7 +18,8 @@ A simple chrome extension that helps sales representatives to store leads url of
 To use this Chrome extension, follow these steps:
 
 1. **Download the Extension:**
-   - Visit the [Releases](https://github.com/your-username/your-extension-name/releases) page.
+   - Visit the project page https://github.com/TaiwoOnileowo/Lead-Tracker-Extension.git.
+   - Click on code
    - Download the latest release by clicking on the "Download ZIP" button.
 
 2. **Unzip the Package:**
